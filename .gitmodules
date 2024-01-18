@@ -1,0 +1,12 @@
+[submodule "bios"]
+	path = bios
+	url = https://github.com/drako0812/tcs-8000-bios
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/drako0812/tcs-8000-kernel
+[submodule "tools/ccc"]
+	path = tools/ccc
+	url = https://github.com/drako0812/ccc
+[submodule "tools/customasm"]
+	path = tools/customasm
+	url = https://github.com/hlorenzi/customasm
